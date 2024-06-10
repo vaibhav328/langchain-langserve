@@ -1,2 +1,7 @@
 env/*
 */__pycache__/*
+.env
+audio/
+/*.txt/
+transcript.txt
+lang_serve/app/transcript.txt

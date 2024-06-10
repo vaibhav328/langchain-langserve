@@ -15,6 +15,7 @@ chain = prompt | model
 
 add_routes(app, chain, path="/cohere")
 
+
 if __name__ == "__main__":
     import uvicorn
 
